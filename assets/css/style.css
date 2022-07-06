@@ -1,3 +1,23 @@
-body {
-    background-color: red;
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Karma:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
 }
+body {
+    font-family: 'Karma', serif;
+    color: #e5d9c2;
+    letter-spacing: 4px;
+}
+
+h1, h2 {
+    font-family: 'Fjalla One', sans-serif;
+    text-transform: uppercase;
+
+}
+
+p {
+font-family: 'Karma', serif;
+}
+
