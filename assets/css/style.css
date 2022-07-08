@@ -57,7 +57,7 @@ font-family: 'Karma', serif;
 #menu a {
 
     text-decoration: none;
-    color: inherit;
+    color: #e5d9c2;
 }
 
 /* main image */
@@ -79,14 +79,48 @@ font-family: 'Karma', serif;
 }
 
 
-
+/* body main sections*/
 
 #about {
-    background-color: red;
+    background-color: #FAF9F6;
 }
 
 #about-section {
-height: 150px;
+height: 600px;
 width: 100%;
+background-color: red;
+
+}
+
+#timetable {
+    background-color: #FAF9F6;
+}
+
+#timetable-section {
+height: 600px;
+width: 100%;
+background-color: blue;
+
+}
+
+#signup {
+    background-color: #FAF9F6;
+}
+
+#signup-section {
+height: 600px;
+width: 100%;
+background-color: green;
+
+}
+
+#contact {
+    background-color: #FAF9F6;
+}
+
+#contact-section {
+height: 600px;
+width: 100%;
+background-color: black;
 
 }
