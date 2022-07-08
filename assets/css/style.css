@@ -11,6 +11,8 @@ body {
     letter-spacing: 4px;
 }
 
+/* Heading, paragraph and Logo */
+
 h1, h2 {
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
@@ -21,3 +23,27 @@ p {
 font-family: 'Karma', serif;
 }
 
+#logo{
+
+    float: left;
+    margin-left: 30px;
+
+}
+
+/* Navigation Menu */
+
+#nav-menu {
+
+    font-size: 120%;
+    background-color: #FAF9F6
+    ;
+
+}
+
+#nav-menu li {
+    float: right;
+    margin-right: 30px;
+    list-style-type: none;
+
+
+}
