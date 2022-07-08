@@ -67,7 +67,7 @@ font-family: 'Karma', serif;
 
 
 
-/* main image */
+/* main image and main text */
 
 #outside-main-image {
 
@@ -85,6 +85,23 @@ font-family: 'Karma', serif;
     background: url('../images/main-image.jpg') no-repeat center center;
 
 }
+
+#main-text {
+    color: #e5d9c2;
+    font-size: 150%;
+    text-transform: uppercase;
+    letter-spacing:4px;
+    width: 25%;
+    height: 50%;
+    bottom: 10%;
+    right: 8%;
+    position: absolute;
+   
+
+}
+
+
+
 
 
 /* body main sections*/
