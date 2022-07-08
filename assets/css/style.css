@@ -24,9 +24,11 @@ font-family: 'Karma', serif;
 }
 
 #logo{
-
+    font-size: 300%;
     float: left;
     margin-left: 30px;
+    line-height: 75px;
+
 
 }
 
@@ -35,8 +37,11 @@ font-family: 'Karma', serif;
 #nav-menu {
 
     font-size: 120%;
-    background-color: #FAF9F6
-    ;
+    background-color: #FAF9F6;
+    letter-spacing: 5px;
+    line-height: 75px;
+    
+
 
 }
 
@@ -44,8 +49,15 @@ font-family: 'Karma', serif;
     float: right;
     margin-right: 30px;
     list-style-type: none;
+    display: inline;
 
 
+}
+
+#menu a {
+
+    text-decoration: none;
+    color: inherit;
 }
 
 /* main image */
