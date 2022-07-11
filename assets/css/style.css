@@ -146,17 +146,21 @@ text-align: center;
 table {
     color: #281b13;
     background-color: #e5d9c2;
-    font-size: 100%;
+    font-size: 95%;
     font-family: 'Karma', serif;
     width: 100%;
-    height: 600px;
+    height: 95%;
     border-collapse:collapse;
     border:1px solid white;
     text-align: center;
 
 }
 
-table td, tr{
+#tr-headings {
+font-size: x-large;
+}
+
+table td, tr {
     border:1px solid white;
     text-align: center;
     }
