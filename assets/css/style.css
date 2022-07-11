@@ -117,7 +117,6 @@ font-family: 'Karma', serif;
 #about-section {
 height: 600px;
 width: 100%;
-margin: center;
 list-style-type: none;
 text-align: center;
 
@@ -214,7 +213,6 @@ text-align: center;
     border: 3px solid #e5d9c2;
     border-radius: 15px;
     box-shadow: 3px 3px 3px;
-    text-shadow: #FAF9F6;
     width: 50%;
     
 
@@ -265,4 +263,11 @@ padding: 5%;
     
 }
 
+/* Mobile in portait min 320px and max 480*/
 
+@media (min-width: 320px) and (max-width: 480px) {
+
+    #nav-menu{
+        text-align: center;
+  }
+}
