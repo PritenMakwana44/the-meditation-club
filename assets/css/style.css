@@ -234,10 +234,29 @@ text-align: center;
 }
 
 #contact-section {
-height: 600px;
+height: 200px;
 width: 100%;
-background-color: black;
+background-color: #FAF9F6;
 text-align: center;
+}
 
+#social-networks {
+    background-color: #FAF9F6;
+    
+    text-align: center;
+
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #281b13;
+    
 }
 
