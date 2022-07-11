@@ -122,6 +122,8 @@ list-style-type: none;
 text-align: center;
 
 
+
+
 }
 
 #about-section h3 {
@@ -167,6 +169,7 @@ table td, tr{
 #timetable-section {
 height: 600px;
 width: 100%;
+text-align: center;
 
 
 }
@@ -174,14 +177,14 @@ width: 100%;
 /* signup styling*/
 
 #signup {
-    background-color: #281b13
+    background-color: #281b13;
 }
 
 #signup-section {
 height: 600px;
 width: 100%;
 background: url(../images/signup-image.jpg)no-repeat center center;
-opacity: 0.6;
+text-align: center;
 
 }
 
@@ -227,13 +230,14 @@ opacity: 0.6;
 
 
 #contact {
-    background-color: #FAF9F6;
+    background-color: #281b13;
 }
 
 #contact-section {
 height: 600px;
 width: 100%;
 background-color: black;
+text-align: center;
 
 }
 
