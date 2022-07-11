@@ -13,7 +13,7 @@ body {
 
 /* Heading, paragraph and Logo */
 
-h1, h2 {
+h1 ,h2 ,h3 {
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
     color: #e5d9c2;
@@ -42,6 +42,7 @@ font-family: 'Karma', serif;
     background-color: #FAF9F6;
     letter-spacing: 5px;
     line-height: 75px;
+    text-transform: uppercase;
 
 
 }
