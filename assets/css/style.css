@@ -93,7 +93,7 @@ font-family: 'Karma', serif;
     text-transform: uppercase;
     letter-spacing:4px;
     width: 25%;
-    height: 50%;
+    height: 80%;
     bottom: 10%;
     right: 8%;
     position: absolute;
@@ -264,11 +264,46 @@ padding: 5%;
     
 }
 
-/* Mobile in portait min 320px and max 480*/
+/* Mobile max 480px*/
 
-@media (min-width: 320px) and (max-width: 480px) {
+@media (max-width: 480px) {
 
-    #nav-menu{
-        text-align: center;
-  }
+    #nav-menu li{
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
 }
+
+/* Tablet min 480px and max 1080px*/
+
+@media (min-width: 480px) and (max-width: 1080px) {
+
+    #nav-menu li{
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+}
+@media (max-width:630px) {
+
+    #main-text {
+    text-shadow: 0 0 2px #281b13;
+    width: 25%;
+    height: 80%;
+    bottom: 10%;
+    left: 8%;
+    
+    }
+        
+    }
+
+
+
+
+
