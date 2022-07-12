@@ -2,6 +2,8 @@
 
 The meditation club is a place where anyone can become free from stress and become happier in their life. The club not only holds meditation lessons, but also holds two talks a week about ancient indian wisdom. With a combination of knowledge and meditation one can become happy. 
 
+This website allows one to get a basic understanding of what the meditation club is, along with the timetable for the clubs events. The website allows one to sign up. Lastly the website shows social media links in the contact section to get in touch.
+
 INSERT SCREENSHOT HERE OF WEBSITE
 
 

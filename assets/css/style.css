@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Karma:wght@300&display=swap');
 
+/* default code accross website */
+
 * {
     margin: 0;
     padding: 0;
@@ -11,15 +13,13 @@ body {
     letter-spacing: 4px;
 }
 
-/* Heading, paragraph and Logo */
+/* Heading, paragraph and Logo standard */
 
 h1 ,h2 ,h3 {
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
     color: #e5d9c2;
     
-
-
 }
 
 p {
@@ -104,9 +104,6 @@ font-family: 'Karma', serif;
    
 
 }
-
-
-
 
 
 /* body main sections*/
@@ -237,6 +234,7 @@ text-align: center;
     height: 23px;
 }
 
+/* contact/social media section styling */
 
 #contact {
     background-color: #281b13;
@@ -283,7 +281,7 @@ padding: 5%;
     }
 }
 
-/* Tablet min 480px and max 1080px*/
+/* Tablet min 480px and max 1080px */
 
 @media (min-width: 480px) and (max-width: 1080px) {
 
@@ -294,6 +292,8 @@ padding: 5%;
         margin-bottom: 20px;
         line-height: 25px;
     }
+
+/* mobile/tablet max 630px */
 
 }
 @media (max-width:630px) {
