@@ -39,6 +39,7 @@ font-family: 'Karma', serif;
 #nav-menu {
 
     font-size: 120%;
+    color: #281b13;
     background-color: #FAF9F6;
     letter-spacing: 5px;
     line-height: 75px;
@@ -89,6 +90,7 @@ font-family: 'Karma', serif;
 
 #main-text {
     color: #e5d9c2;
+    text-shadow: 0 0 2px #281b13;
     font-size: 150%;
     text-transform: uppercase;
     letter-spacing:4px;
@@ -116,6 +118,7 @@ font-family: 'Karma', serif;
 }
 
 #about-section {
+color: #281b13;
 height: 600px;
 width: 100%;
 list-style-type: none;
@@ -129,6 +132,7 @@ text-align: center;
 
 #about-section h3 {
     font-family: 'Fjalla One', sans-serif;
+    color: #281b13;
 }
 
 
@@ -293,7 +297,6 @@ padding: 5%;
 @media (max-width:630px) {
 
     #main-text {
-    text-shadow: 0 0 2px #281b13;
     width: 25%;
     height: 80%;
     bottom: 10%;
