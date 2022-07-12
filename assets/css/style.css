@@ -17,6 +17,7 @@ h1 ,h2 ,h3 {
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
     color: #e5d9c2;
+    
 
 
 }
@@ -26,6 +27,7 @@ font-family: 'Karma', serif;
 }
 
 #logo{
+    color: #281b13;
     font-size: 300%;
     float: left;
     margin-left: 30px;
