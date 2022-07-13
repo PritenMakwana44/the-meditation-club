@@ -100,7 +100,12 @@ font-family: 'Karma', serif;
     height: 80%;
     bottom: 10%;
     right: 8%;
+    padding-left: 10px;
+    padding-top: 40px;
     position: absolute;
+    
+    
+    
    
 
 }
