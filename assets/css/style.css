@@ -175,11 +175,6 @@ table td, tr {
     }
 
 
-
-#timetable {
-    background-color: #281b13;
-}
-
 #timetable-section {
 height: 600px;
 width: 100%;
@@ -242,20 +237,17 @@ text-align: center;
 
 /* contact/social media section styling */
 
-#contact {
-    background-color: #281b13;
-}
 
-#contact-section {
+footer {
 height: 200px;
 width: 100%;
 text-align: center;
-background-color:#e5d9c2;
+background-color:#FAF9F6;
 }
 
 
 .social-networks{
-    background-color: #e5d9c2;
+    background-color: #FAF9F6;
 }
 
 .social-networks i {
