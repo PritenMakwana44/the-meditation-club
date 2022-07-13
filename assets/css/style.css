@@ -9,7 +9,7 @@
 }
 body {
     font-family: 'Karma', serif;
-    color: #e5d9c2;
+    color: #281b13;
     letter-spacing: 4px;
 }
 
@@ -18,7 +18,7 @@ body {
 h1 ,h2 ,h3 {
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
-    color: #e5d9c2;
+    color: #281b13;
     
 }
 
@@ -104,51 +104,55 @@ font-family: 'Karma', serif;
     padding-left: 10px;
     padding-top: 40px;
     position: absolute;
-    
-    
-    
-   
-
 }
+    #main-text h2,h3 {
+        color: #e5d9c2
+        
+    
+    }
 
 
 /* body main sections*/
 
 
 /* about styling*/
-
-#about {
-    background-color:#281b13;
-
-}
-
 #about-section {
-color: #281b13;
-height: 600px;
-width: 100%;
-list-style-type: none;
-text-align: center;
-
-}
-#about-section ul {
-
-    padding: 1%;
-}
-
-#about-section h3 {
-    font-family: 'Fjalla One', sans-serif;
-    color: #281b13;
-}
-
-
-#about-image {
-    background: url('../images/about-image.webp') no-repeat center center;
     width: 100%;
-    height: 350px;
+    height: 600px;
+    text-align: center;
+}
 
-
+#top-left {
+    width: 50%;
+    height: 50%;
+    float: left;
 
 }
+
+#bottom-left {
+    width: 50%;
+    height: 50%;
+    float: left;
+
+}
+
+#top-right {
+    width: 50%;
+    height: 50%;
+    float: left;
+    
+    
+}
+
+#bottom-right {
+    width: 50%;
+    height: 50%;
+    float: left;
+    box-shadow: 5px 10px;
+    
+}
+
+
 
 /* timetable styling*/
 
