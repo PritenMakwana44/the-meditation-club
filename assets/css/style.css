@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Karma:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Roboto:wght@100&display=swap');
 
 /* default code accross website */
 
@@ -7,26 +7,29 @@
     padding: 0;
     border: none;
 }
+
 body {
-    font-family: 'Karma', serif;
+    font-family: 'Roboto', serif;
     color: #281b13;
     letter-spacing: 4px;
 }
 
 /* Heading, paragraph and Logo standard */
 
-h1 ,h2 ,h3 {
+h1,
+h2,
+h3 {
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
     color: #281b13;
-    
+
 }
 
 p {
-font-family: 'Karma', serif;
+    font-family: 'Roboto', serif;
 }
 
-#logo{
+#logo {
     color: #281b13;
     font-size: 300%;
     float: left;
@@ -79,7 +82,7 @@ font-family: 'Karma', serif;
     height: 700px;
     overflow: hidden;
     position: relative;
-    
+
 
 }
 
@@ -96,7 +99,7 @@ font-family: 'Karma', serif;
     text-shadow: 0 0 2px #281b13;
     font-size: 150%;
     text-transform: uppercase;
-    letter-spacing:4px;
+    letter-spacing: 4px;
     width: 25%;
     height: 80%;
     bottom: 10%;
@@ -105,11 +108,11 @@ font-family: 'Karma', serif;
     padding-top: 40px;
     position: absolute;
 }
-    #main-text h2,h3 {
-        color: #e5d9c2
-        
-    
-    }
+
+#main-text h2,
+h3 {
+    color: #e5d9c2
+}
 
 
 /* body main sections*/
@@ -119,17 +122,20 @@ font-family: 'Karma', serif;
 #about-section {
     width: 100%;
     height: 600px;
-    text-align: left;
+    text-align: center;
+
+
 }
 
-#about-section p{
+#about-section p {
     color: #281b13;
+    word-wrap: break-word;
 }
 
-#about-section h3{
+#about-section h3 {
     color: #281b13;
-    
-    
+
+
 }
 
 .about-column1 {
@@ -137,57 +143,72 @@ font-family: 'Karma', serif;
     width: 25%;
     height: 75%;
     
+
+
+
 }
 
 #about-column1-img {
     height: 75%;
     width: 100%;
-    background:url('../images/Mantra-meditation.webp') no-repeat center center;
+    background: url('../images/Mantra-meditation.webp') no-repeat center center;
     background-size: contain;
+
+
 }
 
 .about-column2 {
     float: left;
-    width: 25%;
     height: 75%;
+    width: 25%;
     
+    
+
 }
 
 #about-column2-img {
     height: 75%;
     width: 100%;
-    background:url('../images/Mindfulness.webp') no-repeat center center;
+    background: url('../images/Mindfulness.webp') no-repeat center center;
     background-size: contain;
-    border-radius: 8px;
+
+
+
 }
 
 .about-column3 {
     float: left;
-    width: 25%;
     height: 75%;
+    width: 25%;
+    
+    
 }
 
 #about-column3-img {
     height: 75%;
     width: 100%;
-    background:url('../images/yoga.webp') no-repeat center center;
+    background: url('../images/yoga.webp') no-repeat center center;
     background-size: contain;
 
 }
 
 .about-column4 {
     float: left;
-    width: 25%;
     height: 75%;
+    width: 25%;
     
+
 }
 
 #about-column4-img {
     height: 75%;
     width: 100%;
-    background:url('../images/Ancient-knowledge.webp') no-repeat center center;
+    background: url('../images/Ancient-knowledge.webp') no-repeat center center;
     background-size: contain;
-    border-radius: 8px;
+
+
+
+
 
 
 }
@@ -206,26 +227,27 @@ table {
     font-family: 'Karma', serif;
     width: 100%;
     height: 95%;
-    border-collapse:collapse;
-    border:1px solid white;
+    border-collapse: collapse;
+    border: 1px solid white;
     text-align: center;
 
 }
 
 #tr-headings {
-font-size: x-large;
+    font-size: x-large;
 }
 
-table td, tr {
-    border:1px solid white;
+table td,
+tr {
+    border: 1px solid white;
     text-align: center;
-    }
+}
 
 
 #timetable-section {
-height: 600px;
-width: 100%;
-text-align: center;
+    height: 600px;
+    width: 100%;
+    text-align: center;
 
 
 }
@@ -237,10 +259,10 @@ text-align: center;
 }
 
 #signup-section {
-height: 600px;
-width: 100%;
-background: url(../images/signup-image.webp)no-repeat center center;
-text-align: center;
+    height: 600px;
+    width: 100%;
+    background: url(../images/signup-image.webp)no-repeat center center;
+    text-align: center;
 
 }
 
@@ -248,12 +270,12 @@ text-align: center;
     background-color: #FAF9F6;
     border: 3px solid #281b13;
     color: #281b13;
-    position:absolute;
+    position: absolute;
     max-width: 400px;
     margin: 8%;
     padding: 50px;
     right: 10%;
-    font-size: x-large;    
+    font-size: x-large;
 }
 
 #submit-button {
@@ -266,7 +288,7 @@ text-align: center;
     border-radius: 15px;
     box-shadow: 3px 3px 3px;
     width: 50%;
-    
+
 
 }
 
@@ -286,38 +308,38 @@ text-align: center;
 
 
 footer {
-height: 200px;
-width: 100%;
-text-align: center;
-background-color:#FAF9F6;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    background-color: #FAF9F6;
 }
 
 
-.social-networks{
+.social-networks {
     background-color: #FAF9F6;
 }
 
 .social-networks i {
-text-align: center;
-font-size: 150%;
-color: #281b13;
-margin: 1%;
-padding: 5%;
+    text-align: center;
+    font-size: 150%;
+    color: #281b13;
+    margin: 1%;
+    padding: 5%;
 
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 
-   
-    
+
+
 }
 
 /* Mobile max 480px*/
 
 @media (max-width: 480px) {
 
-    #nav-menu li{
+    #nav-menu li {
         clear: left;
         float: left;
         margin-left: 30px;
@@ -330,7 +352,7 @@ padding: 5%;
 
 @media (min-width: 480px) and (max-width: 1080px) {
 
-    #nav-menu li{
+    #nav-menu li {
         clear: left;
         float: left;
         margin-left: 30px;
@@ -338,22 +360,18 @@ padding: 5%;
         line-height: 25px;
     }
 
-/* mobile/tablet max 630px */
+    /* mobile/tablet max 630px */
 
 }
+
 @media (max-width:630px) {
 
     #main-text {
-    width: 25%;
-    height: 80%;
-    bottom: 10%;
-    left: 8%;
-    
-    }
-        
+        width: 25%;
+        height: 80%;
+        bottom: 10%;
+        left: 8%;
+
     }
 
-
-
-
-
+}
