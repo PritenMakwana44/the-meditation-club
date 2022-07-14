@@ -126,8 +126,20 @@ font-family: 'Karma', serif;
     width: 50%;
     height: 50%;
     float: left;
+    
 
 }
+
+#top-left-img {
+    width: 100%;
+    height: 75%;
+    background: url('../images/top-left-img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 75%;
+  
+}
+
 
 #bottom-left {
     width: 50%;
