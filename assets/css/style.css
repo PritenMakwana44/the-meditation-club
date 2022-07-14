@@ -119,7 +119,7 @@ font-family: 'Karma', serif;
 #about-section {
     width: 100%;
     height: 600px;
-    text-align: center;
+    text-align: left;
 }
 
 #about-section p{
@@ -128,8 +128,8 @@ font-family: 'Karma', serif;
 
 #about-section h3{
     color: #281b13;
-    text-decoration: underline;
-    line-height: 20px;
+    
+    
 }
 
 .about-column1 {
@@ -142,25 +142,36 @@ font-family: 'Karma', serif;
 #about-column1-img {
     height: 75%;
     width: 100%;
-    background:url('../images/top-left-img.jpg') no-repeat center center;
+    background:url('../images/Mantra-meditation.webp') no-repeat center center;
     background-size: contain;
-    border-radius: 8px;
 }
 
 .about-column2 {
     float: left;
     width: 25%;
     height: 75%;
-    background-color: green;
     
+}
+
+#about-column2-img {
+    height: 75%;
+    width: 100%;
+    background:url('../images/Mindfulness.webp') no-repeat center center;
+    background-size: contain;
+    border-radius: 8px;
 }
 
 .about-column3 {
     float: left;
     width: 25%;
     height: 75%;
-    background-color: blue;
-    
+}
+
+#about-column3-img {
+    height: 75%;
+    width: 100%;
+    background:url('../images/yoga.webp') no-repeat center center;
+    background-size: contain;
 
 }
 
@@ -168,10 +179,18 @@ font-family: 'Karma', serif;
     float: left;
     width: 25%;
     height: 75%;
-    background-color: pink;
+    
 }
 
+#about-column4-img {
+    height: 75%;
+    width: 100%;
+    background:url('../images/Ancient-knowledge.webp') no-repeat center center;
+    background-size: contain;
+    border-radius: 8px;
 
+
+}
 
 
 
