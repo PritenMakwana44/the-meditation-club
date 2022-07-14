@@ -121,8 +121,10 @@ h3 {
 /* about styling*/
 #about-section {
     width: 100%;
-    height: 600px;
+    height: 500px;
     text-align: center;
+    
+ 
 
 
 }
@@ -130,10 +132,12 @@ h3 {
 #about-section p {
     color: #281b13;
     word-wrap: break-word;
+    padding-bottom: 1%;
 }
 
 #about-section h3 {
     color: #281b13;
+    padding-bottom: 1%;
 
 
 }
@@ -143,16 +147,19 @@ h3 {
     width: 25%;
     height: 75%;
     
-
+    
+   
+    overflow: hidden;
 
 
 }
 
 #about-column1-img {
-    height: 75%;
+    height: 100%;
     width: 100%;
     background: url('../images/Mantra-meditation.webp') no-repeat center center;
-    background-size: contain;
+    background-size: cover;
+   
 
 
 }
@@ -161,16 +168,20 @@ h3 {
     float: left;
     height: 75%;
     width: 25%;
+
+    
+    overflow: hidden;
     
     
 
 }
 
 #about-column2-img {
-    height: 75%;
+    height: 100%;
     width: 100%;
     background: url('../images/Mindfulness.webp') no-repeat center center;
-    background-size: contain;
+    background-size: cover;
+    
 
 
 
@@ -180,15 +191,19 @@ h3 {
     float: left;
     height: 75%;
     width: 25%;
+
+    
+    overflow: hidden;
     
     
 }
 
 #about-column3-img {
-    height: 75%;
+    height: 100%;
     width: 100%;
     background: url('../images/yoga.webp') no-repeat center center;
-    background-size: contain;
+    background-size: cover;
+    
 
 }
 
@@ -196,15 +211,19 @@ h3 {
     float: left;
     height: 75%;
     width: 25%;
+    overflow: hidden;
+
+  
     
 
 }
 
 #about-column4-img {
-    height: 75%;
+    height: 100%;
     width: 100%;
     background: url('../images/Ancient-knowledge.webp') no-repeat center center;
-    background-size: contain;
+    background-size: cover;
+    
 
 
 
