@@ -34,10 +34,11 @@ p {
 
 #logo {
     color: #281b13;
-    font-size: 300%;
+    font-size: 400%;
     float: left;
-    margin-left: 30px;
-    line-height: 75px;
+    margin-left: 25px;
+    line-height: 80px;
+
 
 
 }
@@ -48,10 +49,10 @@ p {
 
     font-size: 120%;
     color: #281b13;
-    background-color: #FAF9F6;
     letter-spacing: 5px;
-    line-height: 75px;
+    line-height: 80px;
     text-transform: uppercase;
+    padding-top: 3%;
 
 
 }
@@ -243,6 +244,7 @@ table {
     border-collapse: collapse;
     border: 1px solid white;
     text-align: center;
+    overflow-x: auto;
 
 }
 
@@ -368,13 +370,42 @@ footer {
 
 @media (min-width: 300px) and (max-width: 767px) {
 
-
+/* Logo adjustment*/
     #logo {
-        font-size: 25px;
-        float: left;
-       
+        font-size: 25px; 
+    }
+
+    /*signup form adjustment*/
+
+    .signup {
         
-        
+    width: 100px;
+
+    
+    }
+
+    #signup-heading {
+        width: 100px;
+        font-size: smaller;
     }
     
+
+    .form-input {
+        width: 200px;
+        
+    
+    }
+
+    /* table adjustment*/
+
+    #timetable-section  {
+        font-size: small;
+        overflow-y: scroll;
+        overflow-x: scroll;
+    }
+
+    
+
+
+
 }
