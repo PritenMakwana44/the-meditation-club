@@ -121,11 +121,8 @@ h3 {
 /* about styling*/
 #about-section {
     width: 100%;
-    height: 500px;
+    height: 700px;
     text-align: center;
-    
- 
-
 
 }
 
@@ -133,92 +130,73 @@ h3 {
     color: #281b13;
     word-wrap: break-word;
     padding-bottom: 1%;
+    padding-top: 1%;
 }
 
 #about-section h3 {
     color: #281b13;
     padding-bottom: 1%;
+    padding-top: 1%;
 
 
 }
 
-.about-column1 {
+.top-left {
     float: left;
-    width: 25%;
-    height: 75%;
-    
-    
-   
+    width: 50%;
+    height: 50%;
     overflow: hidden;
 
 
 }
 
-#about-column1-img {
+#top-left-img {
     height: 100%;
     width: 100%;
     background: url('../images/Mantra-meditation.webp') no-repeat center center;
     background-size: cover;
-   
-
 
 }
 
-.about-column2 {
+.top-right {
     float: left;
-    height: 75%;
-    width: 25%;
-
-    
+    height: 50%;
+    width: 50%;
     overflow: hidden;
-    
-    
 
 }
 
-#about-column2-img {
+#top-right-img {
     height: 100%;
     width: 100%;
     background: url('../images/Mindfulness.webp') no-repeat center center;
     background-size: cover;
-    
-
-
 
 }
 
-.about-column3 {
+.bottom-left {
     float: left;
-    height: 75%;
-    width: 25%;
-
-    
+    height: 50%;
+    width: 50%;
     overflow: hidden;
-    
-    
+
 }
 
-#about-column3-img {
+#bottom-left-img {
     height: 100%;
     width: 100%;
     background: url('../images/yoga.webp') no-repeat center center;
     background-size: cover;
-    
-
 }
 
-.about-column4 {
+.bottom-right {
     float: left;
-    height: 75%;
-    width: 25%;
+    height: 50%;
+    width: 50%;
     overflow: hidden;
-
-  
-    
-
 }
 
-#about-column4-img {
+#bottom-right-img {
     height: 100%;
     width: 100%;
     background: url('../images/Ancient-knowledge.webp') no-repeat center center;
