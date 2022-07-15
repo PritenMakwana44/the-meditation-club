@@ -131,10 +131,12 @@ h3 {
 
 #about-section p {
     color: #281b13;
-    word-wrap: break-word;
+   
     padding-bottom: 1%;
     padding-top: 1%;
-    font-size: 19px;
+    font-size: 18px;
+    
+    
 }
 
 #about-section h3 {
@@ -149,7 +151,7 @@ h3 {
     float: left;
     width: 50%;
     height: 50%;
-    background-color: red;
+    
     overflow:hidden;
     
     
