@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Roboto:wght@100&display=swap');
 
 /* default code accross website */
-
-* {
-    margin: 0;
-    padding: 0;
-    border: none;
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    
 }
 
 body {
@@ -121,7 +124,7 @@ h3 {
 /* about styling*/
 #about-section {
     width: 100%;
-    height: 700px;
+    height: 800px;
     text-align: center;
 
 }
@@ -131,12 +134,13 @@ h3 {
     word-wrap: break-word;
     padding-bottom: 1%;
     padding-top: 1%;
+    font-size: 19px;
 }
 
 #about-section h3 {
     color: #281b13;
-    padding-bottom: 1%;
-    padding-top: 1%;
+    
+   
 
 
 }
@@ -145,7 +149,11 @@ h3 {
     float: left;
     width: 50%;
     height: 50%;
-    overflow: hidden;
+    background-color: red;
+    overflow:hidden;
+    
+    
+    
 
 
 }
@@ -155,6 +163,9 @@ h3 {
     width: 100%;
     background: url('../images/Mantra-meditation.webp') no-repeat center center;
     background-size: cover;
+    
+   
+    
 
 }
 
@@ -162,7 +173,10 @@ h3 {
     float: left;
     height: 50%;
     width: 50%;
-    overflow: hidden;
+    overflow:hidden;
+
+
+    
 
 }
 
@@ -171,6 +185,8 @@ h3 {
     width: 100%;
     background: url('../images/Mindfulness.webp') no-repeat center center;
     background-size: cover;
+    overflow:hidden;
+    
 
 }
 
@@ -178,7 +194,9 @@ h3 {
     float: left;
     height: 50%;
     width: 50%;
-    overflow: hidden;
+    overflow:hidden;
+    
+    
 
 }
 
@@ -193,7 +211,8 @@ h3 {
     float: left;
     height: 50%;
     width: 50%;
-    overflow: hidden;
+    overflow:hidden;
+   
 }
 
 #bottom-right-img {
@@ -249,15 +268,16 @@ tr {
 
 #signup {
     width: 100%;
-    height: 500px;
-    border: 1%;
+    height: 350px;
+    
+    
 
   
 }
 
 
 .signup {
-    font-size: 50px;
+    font-size: 38px;
     width: 500px;
     height: 100%;
     margin-left: 35%;
@@ -274,7 +294,7 @@ tr {
 
 .form-input {
     font-family: inherit;
-    font-size: xx-large;
+    font-size: 25px;
     display: block;
     width: 95%;
     border-bottom: 3px solid #e5d9c2;
@@ -282,10 +302,8 @@ tr {
     background: transparent;
 }
 
-.signup hr {
-    height: 25px;
-    
-}
+
+
 
 #submit-button {
 
@@ -322,16 +340,17 @@ footer {
     height: 200px;
     width: 100%;
     text-align: center;
-    background-color: white;
+    background-color: inherit;
+
 }
 
 
 .social-networks {
-    background-color: white;
+    background-color: inherit;
 }
 
 .social-networks i {
-    background-color: white;
+    
     text-align: center;
     font-size: 150%;
     color: #281b13;
@@ -343,47 +362,17 @@ footer {
 .social-networks>li {
     display: inline;
 
-
-
 }
 
-/* Mobile max 480px*/
+@media (min-width: 300px) and (max-width: 767px) {
 
-@media (max-width: 480px) {
 
-    #nav-menu li {
-        clear: left;
+    #logo {
+        font-size: 25px;
         float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
+       
+        
+        
     }
-}
-
-/* Tablet min 480px and max 1080px */
-
-@media (min-width: 480px) and (max-width: 1080px) {
-
-    #nav-menu li {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
-
-    /* mobile/tablet max 630px */
-
-}
-
-@media (max-width:630px) {
-
-    #main-text {
-        width: 25%;
-        height: 80%;
-        bottom: 10%;
-        left: 8%;
-
-    }
-
+    
 }
