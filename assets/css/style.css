@@ -238,7 +238,7 @@ table {
     color: #281b13;
     background-color: #FAF9F6;
     font-size: 95%;
-    font-family: 'Karma', serif;
+    font-family: inherit;
     width: 100%;
     height: 95%;
     border-collapse: collapse;
@@ -249,6 +249,7 @@ table {
 
 #tr-headings {
     font-size: x-large;
+    font-weight: bolder;
 }
 
 table td,
@@ -294,6 +295,7 @@ tr {
 
 
 .form-input {
+    font-family: inherit;
     font-size: xx-large;
     display: block;
     width: 95%;
@@ -317,6 +319,8 @@ tr {
     font-size: 50%;
     font-weight: bolder;
     margin-top: 5%;
+    
+   
 
 }
 
