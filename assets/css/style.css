@@ -241,7 +241,7 @@ h3 {
 
 table {
     color: #281b13;
-    background-color: #e5d9c2;
+    background-color: #FAF9F6;
     font-size: 95%;
     font-family: 'Karma', serif;
     width: 100%;
@@ -274,53 +274,29 @@ tr {
 /* signup styling*/
 
 #signup {
-    background-color: #281b13;
-}
-
-#signup-section {
-    height: 600px;
     width: 100%;
-    background: url(../images/signup-image.webp)no-repeat center center;
-    text-align: center;
-
+    height: 600px;
+  
 }
 
 .signup {
-    background-color: #FAF9F6;
-    border: 3px solid #281b13;
-    color: #281b13;
-    position: absolute;
-    max-width: 400px;
-    margin: 8%;
-    padding: 50px;
-    right: 10%;
-    font-size: x-large;
-}
+    font-size: 50px;
 
-#submit-button {
-    font-size: 100%;
-    text-align: center;
-    text-transform: uppercase;
-    color: #FAF9F6;
-    background-color: #281b13;
-    border: 3px solid #e5d9c2;
-    border-radius: 15px;
-    box-shadow: 3px 3px 3px;
-    width: 50%;
-
-
-}
-
-#submit-button:hover {
-    background-color: #e5d9c2;
-    color: #281b13;
+    width: 600px;
+    height: 600px;
+    margin-left: 25%;
+    
+    padding: 10%;
+    
+   
 }
 
 .form-input {
-    background: transparent;
-    border: 3px solid #281b13;
-    width: 80%;
-    height: 23px;
+    display: block;
+    width: 95%;
+    border: 1px solid #281b13;
+    
+
 }
 
 /* contact/social media section styling */
@@ -330,15 +306,16 @@ footer {
     height: 200px;
     width: 100%;
     text-align: center;
-    background-color: #FAF9F6;
+    background-color: white;
 }
 
 
 .social-networks {
-    background-color: #FAF9F6;
+    background-color: white;
 }
 
 .social-networks i {
+    background-color: white;
     text-align: center;
     font-size: 150%;
     color: #281b13;
