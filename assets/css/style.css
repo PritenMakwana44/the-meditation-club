@@ -23,6 +23,7 @@ h3 {
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
     color: #281b13;
+   
 }
 
 p {
@@ -32,30 +33,33 @@ p {
 #logo {
     color: #281b13;
     font-size: 400%;
-    float: left;
-    margin-left: 25px;
-    line-height: 80px;
+    margin: 0 auto;
+    text-align: center;
+    
 }
 
 /* Navigation Menu */
 #nav-menu {
-    font-size: 120%;
-    color: #281b13;
-    letter-spacing: 5px;
-    line-height: 80px;
+    
+    list-style: none; 
+    margin: 0; 
+    padding: 0; 
+    text-align: center; 
     text-transform: uppercase;
-    padding-top: 3%;
+    color: #281b13
+  
 }
 
 #nav-menu li {
-    float: right;
-    margin-right: 30px;
-    list-style-type: none;
-    font-weight: bold;
+    display: inline;
+      
 }
 
 #nav-menu a {
+    display: inline-block; 
+    padding: 1%; 
     text-decoration: none;
+    font-size:1.2em;
     color: inherit;
 }
 
@@ -302,11 +306,16 @@ footer {
     }
 
     /* nav bar adjustment*/
-    #nav-menu li {
-    
-     float: left;
-        
+
+    header {
+
+        height: 400px;
+
     }
+    #nav-menu li {
+        display: inline-block;
+    }
+
 
    /* Main image and main text adjustment*/
 
@@ -378,9 +387,19 @@ footer {
     }
 
     /* footer adjustment*/
+
    
-    
-
-
-
 }
+
+
+@media (min-width: 767px)and (max-width: 1065px) {
+    /* Logo adjustment*/
+        #logo {
+            font-size: 47px; 
+        }
+
+    
+    
+    
+    }
+
