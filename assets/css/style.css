@@ -335,12 +335,15 @@ footer {
      
     }
 
-     /* table section adjustments*/
+     /* timetable section adjustments*/
 
      #timetable-section {
         height: 1200px;
         width: 100%;
         text-align: center;
+        font-size: small;
+        overflow-y: scroll;
+        overflow-x: scroll;
     }
     
   
@@ -348,26 +351,29 @@ footer {
     /*signup form adjustment*/
 
     .signup {
-        width: 100px;
+        width: 100%;
+        margin-left: 20%;  
     }
 
     #signup-heading {
         width: 100px;
-        font-size: smaller;
+        font-size: 20px;
     }
 
     .form-input {
         width: 200px;
+        font-size: 20px;
+        
+    
     }
 
-    /* table adjustment*/
-
-    #timetable-section  {
-        font-size: small;
-        overflow-y: scroll;
-        overflow-x: scroll;
+    /* footer adjustment*/
+    footer {
+       
+       width: 350px;
+       float: none;
+        
     }
-
     
 
 
