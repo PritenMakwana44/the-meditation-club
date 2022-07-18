@@ -7,8 +7,7 @@ html,body
     height: 100%;
     margin: 0px;
     padding: 0px;
-    border: 0px;
-    
+    border: 0px;    
 }
 
 body {
@@ -18,14 +17,12 @@ body {
 }
 
 /* Heading, paragraph and Logo standard */
-
 h1,
 h2,
 h3 {
     font-family: 'Fjalla One', sans-serif;
     text-transform: uppercase;
     color: #281b13;
-
 }
 
 p {
@@ -38,23 +35,16 @@ p {
     float: left;
     margin-left: 25px;
     line-height: 80px;
-
-
-
 }
 
 /* Navigation Menu */
-
 #nav-menu {
-
     font-size: 120%;
     color: #281b13;
     letter-spacing: 5px;
     line-height: 80px;
     text-transform: uppercase;
     padding-top: 3%;
-
-
 }
 
 #nav-menu li {
@@ -62,32 +52,24 @@ p {
     margin-right: 30px;
     list-style-type: none;
     font-weight: bold;
-
 }
 
 #nav-menu a {
     text-decoration: none;
     color: inherit;
-
 }
 
 #nav-menu a:hover {
     border-bottom: 1px solid #e5d9c2;
 }
 
-
-
-
 /* main image and main text */
 
 #outside-main-image {
-
     width: 100%;
     height: 700px;
     overflow: hidden;
     position: relative;
-
-
 }
 
 #main-image {
@@ -95,8 +77,6 @@ p {
     height: 700px;
     background: url('../images/main-image.webp') no-repeat center center;
     opacity: 25%;
-
-
 }
 
 #main-text {
@@ -119,7 +99,6 @@ h3 {
     color: #e5d9c2
 }
 
-
 /* body main sections*/
 
 
@@ -128,38 +107,24 @@ h3 {
     width: 100%;
     height: 800px;
     text-align: center;
-
 }
 
 #about-section p {
     color: #281b13;
-   
     padding-bottom: 1%;
     padding-top: 1%;
-    font-size: 18px;
-    
-    
+    font-size: 18px;    
 }
 
 #about-section h3 {
     color: #281b13;
-    
-   
-
-
 }
 
 .top-left {
     float: left;
     width: 50%;
     height: 50%;
-    
-    overflow:hidden;
-    
-    
-    
-
-
+    overflow:hidden; 
 }
 
 #top-left-img {
@@ -167,10 +132,6 @@ h3 {
     width: 100%;
     background: url('../images/Mantra-meditation.webp') no-repeat center center;
     background-size: cover;
-    
-   
-    
-
 }
 
 .top-right {
@@ -178,10 +139,6 @@ h3 {
     height: 50%;
     width: 50%;
     overflow:hidden;
-
-
-    
-
 }
 
 #top-right-img {
@@ -190,8 +147,6 @@ h3 {
     background: url('../images/Mindfulness.webp') no-repeat center center;
     background-size: cover;
     overflow:hidden;
-    
-
 }
 
 .bottom-left {
@@ -199,9 +154,6 @@ h3 {
     height: 50%;
     width: 50%;
     overflow:hidden;
-    
-    
-
 }
 
 #bottom-left-img {
@@ -216,7 +168,6 @@ h3 {
     height: 50%;
     width: 50%;
     overflow:hidden;
-   
 }
 
 #bottom-right-img {
@@ -224,17 +175,9 @@ h3 {
     width: 100%;
     background: url('../images/Ancient-knowledge.webp') no-repeat center center;
     background-size: cover;
-
-
 }
 
-
-
-
-
-
 /* timetable styling*/
-
 table {
     color: #281b13;
     background-color: #FAF9F6;
@@ -246,7 +189,6 @@ table {
     border: 1px solid white;
     text-align: center;
     overflow-x: auto;
-
 }
 
 #tr-headings {
@@ -260,24 +202,16 @@ tr {
     text-align: center;
 }
 
-
 #timetable-section {
     height: 600px;
     width: 100%;
     text-align: center;
-
-
 }
 
 /* signup styling*/
-
 #signup {
     width: 100%;
     height: 350px;
-    
-    
-
-  
 }
 
 
@@ -285,17 +219,13 @@ tr {
     font-size: 38px;
     width: 500px;
     height: 100%;
-    margin-left: 35%;
-    
-    
-   
+    margin-left: 35%;   
 }
 
 #signup-heading {
     text-align: center;
     background-color: #281b13;
 }
-
 
 .form-input {
     font-family: inherit;
@@ -308,11 +238,7 @@ tr {
 }
 
 
-
-
 #submit-button {
-
-   
     background-color: #e5d9c2;
     text-transform: uppercase;
     padding: 1% 1%;
@@ -320,9 +246,6 @@ tr {
     font-size: 50%;
     font-weight: bolder;
     margin-top: 5%;
-    
-   
-
 }
 
 #submit-button:hover {
@@ -334,19 +257,14 @@ tr {
     font-size: 50%;
     font-weight: bolder;
     margin-top: 5%;
-
-
 }
 
 /* contact/social media section styling */
-
-
 footer {
     height: 200px;
     width: 100%;
     text-align: center;
     background-color: inherit;
-
 }
 
 
@@ -355,64 +273,91 @@ footer {
 }
 
 .social-networks i {
-    
     text-align: center;
     font-size: 150%;
     color: #281b13;
     margin: 1%;
     padding: 5%;
-
 }
 
 .social-networks>li {
     display: inline;
-
 }
 
 @media (min-width: 300px) and (max-width: 767px) {
-
 /* Logo adjustment*/
     #logo {
         font-size: 25px; 
     }
 
     /* nav bar adjustment*/
-
     #nav-menu li {
-        
         float: left;
-
     }
+
    /* Main image and main text adjustment*/
 
    #main-text {
-    width: 64%;
-    height: 68%;
+        width: 65%;
+        height: 68%;
     }
 
-    #main-image {
-         opacity: 25%;
+ /* about section adjustments*/
+
+ #about-section {
+    width: 100%;
+    height: 800px;
+   
+    padding-bottom: 850px;
+  
+ }
+ 
+    .top-left {
+        float: none;
+        width: 100%;
+     
     }
+
+    .top-right {
+        float: none;
+        width: 100%;
+     
+    }
+
+    .bottom-right {
+        float: none;
+        width: 100%;
+    }
+
+    .bottom-left {
+        float: none;
+        width: 100%;
+     
+    }
+
+     /* table section adjustments*/
+
+     #timetable-section {
+        height: 1200px;
+        width: 100%;
+        text-align: center;
+    }
+    
+  
 
     /*signup form adjustment*/
 
     .signup {
-        
-    width: 100px;
-
-    
+        width: 100px;
     }
 
     #signup-heading {
         width: 100px;
         font-size: smaller;
     }
-    
 
     .form-input {
         width: 200px;
-        
-    
     }
 
     /* table adjustment*/
