@@ -94,6 +94,7 @@ p {
     width: 100%;
     height: 700px;
     background: url('../images/main-image.webp') no-repeat center center;
+    opacity: 25%;
 
 
 }
@@ -373,6 +374,24 @@ footer {
 /* Logo adjustment*/
     #logo {
         font-size: 25px; 
+    }
+
+    /* nav bar adjustment*/
+
+    #nav-menu li {
+        
+        float: left;
+
+    }
+   /* Main image and main text adjustment*/
+
+   #main-text {
+    width: 64%;
+    height: 68%;
+    }
+
+    #main-image {
+         opacity: 25%;
     }
 
     /*signup form adjustment*/
