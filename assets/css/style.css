@@ -46,7 +46,8 @@ p {
     padding: 0; 
     text-align: center; 
     text-transform: uppercase;
-    color: #281b13
+    color: #281b13;
+    font-weight: bolder;
   
 }
 
@@ -307,15 +308,14 @@ footer {
 
     /* nav bar adjustment*/
 
-    header {
+    #nav-menu {
 
-        height: 400px;
+        font-size: 10px;
+
 
     }
-    #nav-menu li {
-        display: inline-block;
-    }
 
+  
 
    /* Main image and main text adjustment*/
 
@@ -397,9 +397,93 @@ footer {
         #logo {
             font-size: 47px; 
         }
+    
 
+        /* nav bar adjustment*/
+
+        #nav-menu {
+
+            font-size: 10px;
     
     
+        }
     
+      
+    
+       /* Main image and main text adjustment*/
+    
+       #main-text {
+            width: 65%;
+            height: 68%;
+        }
+    
+     /* about section adjustments*/
+    
+     #about-section {
+        width: 100%;
+        height: 800px;
+        padding-bottom: 850px;
+      
+     }
+     
+        .top-left {
+            float: none;
+            width: 100%;
+         
+        }
+    
+        .top-right {
+            float: none;
+            width: 100%;
+         
+        }
+    
+        .bottom-right {
+            float: none;
+            width: 100%;
+        }
+    
+        .bottom-left {
+            float: none;
+            width: 100%;
+         
+        }
+    
+         /* timetable section adjustments*/
+    
+         #timetable-section {
+            height: 1200px;
+            width: 100%;
+            text-align: center;
+            font-size: small;
+            overflow-y: scroll;
+            overflow-x: scroll;
+        }
+        
+      
+    
+        /*signup form adjustment*/
+    
+       
+    
+        #signup-heading {
+            width: 100px;
+            font-size: 20px;
+        }
+    
+        .form-input {
+            display: inline-block;
+            width: 200px;
+            font-size: 20px;
+            
+        
+        }
+    
+        /* footer adjustment*/
+    
+       
     }
+    
+    
+    
 
