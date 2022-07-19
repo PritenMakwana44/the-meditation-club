@@ -27,18 +27,48 @@ This website allows one to get a basic understanding of what the meditation club
 
 **Landing Page**
 - Landing page shows a picture of a women meditating which covers most of the page.
-- Text is also over the image. 
+- Text is also over the image. The text is a means of claryfing what the website is about.
 - Opacity set on image to make text stand out and easier to read.
 - Text and image responsive to diffrent devices.
 
+![main-image](../the-meditation-club/readme-resources/images/main-image.png)
+
 **About Section**
+- The about section covers what the club is about and what is included.
+- This section breaks down the club into 4 parts. 
+- Each section of the 4 has a header which breaks down the topic then a sentance to describe and a image for aesthetic.
+- This section gives the viewer the essence of the meditation club.
+- Again this section is responsive to tablets and mobiles too.
+
+![about](../the-meditation-club/readme-resources/images/about.png)
 
 **Timetable Section**
+- The timetable section has a diffrent colour which stands out amongst the rest of the site to attract the viewers attention. 
+- The writing is dark and the table is beige with offwhite lines breaking it up. 
+- The timetable displays all days of the week with their respective events, who they are instructed by and what time. 
+- The table is responsive to all devices. 
+
+![timetable](../the-meditation-club/readme-resources/images/timetable.png)
+
 
 **Sign Up Section**
 
-**Contact Section**
+- The signup section has a header with beige writing and a black background to contrast the offwhite background of the website. This makes it easy of users to identify the signup section.
+- This section has a form for visitors to sign up with a submit button. 
+- The signup form includes first name, last name, email and number. 
+- The styling of the form is to have a dark box and beige border at bottom to keep the website consistent. 
+- When the submit button is clicked or hovered over the button turns black.
+- Responsive to mobile and tablet.
 
+![signup](../the-meditation-club/readme-resources/images/signup.png)
+
+**Footer**
+- The footer has 4 social media icons. 
+- Each social media icon is clickable and should go to the respective social media site. 
+- All icons are stick with the same colour scheme of offwhite background and dark in color.
+- Responsive to mobile and tablet.
+
+![footer](../the-meditation-club/readme-resources/images/footer.png)
 
 ## Testing
 
