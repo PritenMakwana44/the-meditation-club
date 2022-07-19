@@ -71,9 +71,27 @@ This website allows one to get a basic understanding of what the meditation club
 ![footer](../the-meditation-club/readme-resources/images/footer.png)
 
 ## Testing
+<hr>
+
+- Tested in diffrent browsers i.e chrome, firefox and safari. All working.
+- Used dev tools to check everything works with diffrent screen sizes. all seemed to be fine. 
+- All areas have great contrast and seem to be easy to see.
+- Form works fine and submit button works. Did find a bug with the hover function of the button being out of place. Fixed below in bugs section.
 
 ### Bugs
+
+- When hovering over the submit button it is the correct colour, just the button is out of place. 
+
+Before hover:
+
+![signup](../the-meditation-club/readme-resources/images/signup.png)
+
+After Hover: 
+
+![submit-hover-bug](../the-meditation-club/readme-resources/images/submit-hover-bug.png)
+
 **Solved Bugs**
+
 
 **Validator Testing**
 HTML: No errors or warnings via W3C validator.
