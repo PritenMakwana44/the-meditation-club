@@ -4,16 +4,32 @@ The meditation club is a place where anyone can become free from stress and beco
 
 This website allows one to get a basic understanding of what the meditation club is, along with the timetable for the clubs events. The website allows one to sign up. Lastly the website shows social media links in the contact section to get in touch.
 
-INSERT SCREENSHOT HERE OF WEBSITE
+![Responsive](../the-meditation-club/readme-resources/images/Responsive.png)
 
 
 ## Features
+<hr>
 
-### Existing Features
+**Header**
+- Header holds a heading for the whole page which reads 'The Meditation Club'.
+- Dark coloured and has a specific modern font to make it stand out.
+
+![Header-navbar](../the-meditation-club/readme-resources/images/Header-and-nav-bar.png)
 
 **Navigation Bar**
+- Navigation bar is in middle of page.
+- When hovering over links on nav bar the specific item is underlined.
+- Links to about section, timetable section and signup section. 
+- Font contrasts with background which is off-white. It's in a simple but modern text.
+- Fully responsive with diffrent devices. Easily done as it's in the center of page.
+
+![Header-navbar](../the-meditation-club/readme-resources/images/Header-and-nav-bar.png)
 
 **Landing Page**
+- Landing page shows a picture of a women meditating which covers most of the page.
+- Text is also over the image. 
+- Opacity set on image to make text stand out and easier to read.
+- Text and image responsive to diffrent devices.
 
 **About Section**
 
