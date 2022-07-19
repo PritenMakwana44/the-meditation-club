@@ -80,6 +80,7 @@ This website allows one to get a basic understanding of what the meditation club
 
 ### Bugs
 
+Hover bug:
 - When hovering over the submit button it is the correct colour, just the button is out of place. 
 
 Before hover:
@@ -92,12 +93,29 @@ After Hover:
 
 **Solved Bugs**
 
+Hover Bug:
+
+Removed from #submit-button:hover:
+margin-top: 5%;
+padding: 1% 1%;
+
+
+added to #submit-button:hover:
+display: block;
+margin: 1% auto;
+
+- I must have missed this when adjusting the submit button code in css. 
+
+![hover-bug-fix](../the-meditation-club/readme-resources/images/hover-bug-fix.png)
+
+
 
 **Validator Testing**
+
 HTML: No errors or warnings via W3C validator.
+
 CSS: No errors or warnings via Jigsaw validator.
 
-**Unsolved Bugs**
 
 
 ## Deployment

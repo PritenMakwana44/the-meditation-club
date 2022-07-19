@@ -266,11 +266,12 @@ tr {
     background-color: #281b13;
     color: #FAF9F6;
     text-transform: uppercase;
-    padding: 1% 1%;
+    display: block;
+    margin: 1% auto;
     font-family: inherit;
     font-size: 50%;
     font-weight: bolder;
-    margin-top: 5%;
+   
 }
 
 /* social media section styling */
