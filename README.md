@@ -1,8 +1,10 @@
 # The Meditation Club
 
-The meditation club is a place where anyone can become free from stress and become happier in their life. The club not only holds meditation lessons, but also holds two talks a week about ancient indian wisdom. With a combination of knowledge and meditation one can become happy. 
+The meditation club is a place where anyone can become free from stress and become happier in their life. The club not only holds meditation lessons, but also holds talks every week about ancient indian wisdom. With a combination of knowledge and meditation one can become happy. 
 
 This website allows one to get a basic understanding of what the meditation club is, along with the timetable for the clubs events. The website allows one to sign up. Lastly the website shows social media links in the contact section to get in touch.
+
+The goal of the project is to provide a basic understanding of what the meditation club is and to allow users to check the timetable of what is on. If happy then can then signup for free! The target audience can be anyone as reflected in a wide range of pictures which includes diffrent cultures. Expectations and demands can be quite similar here. A clear and simple website which doesn't need a lot of functions is what was required and delivered. The colours are warm and modern just as is The theme of the meditation club.
 
 ![Responsive](../the-meditation-club/readme-resources/images/Responsive.png)
 
@@ -116,6 +118,11 @@ HTML: No errors or warnings via W3C validator.
 
 CSS: No errors or warnings via Jigsaw validator.
 
+SEO testing desktop:
+![desktop-seo](../the-meditation-club/readme-resources/images/desktop-seo.png)
+
+SEO testing mobile:
+![mobile-seo](../the-meditation-club/readme-resources/images/mobile-seo.png)
 
 
 ## Deployment
@@ -141,4 +148,3 @@ https://stackoverflow.com/
 * All images were taken from Pexels
 
 
-## General
