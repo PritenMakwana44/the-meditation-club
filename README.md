@@ -27,7 +27,7 @@ The website is a concept design and is not used for a real life buisness. The ai
 - [Future Implementations](#future-implementations)
 - [Technology Used](#technology-used)
 - [Testing](#testing)
-     - [Functionality/Compatibility Testing](#functionality/compatibility-testing)
+     - [Functionality/Compatibility Testing](#functionality-compatibility-testing)
      - [Code Validator Testing](code-validator-testing)
      - [SEO Testing](seo-testing)
 - [Bugs](#bugs)
