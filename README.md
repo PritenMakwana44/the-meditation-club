@@ -1,12 +1,83 @@
 # The Meditation Club
+## HTML/CSS Essentials Project 1
+
+![Responsive](/readme-resources/images/Responsive.png)
 
 The meditation club is a place where anyone can become free from stress and become happier in their life. The club not only holds meditation lessons, but also holds talks every week about ancient indian wisdom. With a combination of knowledge and meditation one can become happy. 
 
 This website allows one to get a basic understanding of what the meditation club is, along with the timetable for the clubs events. The website allows one to sign up. Lastly the website shows social media links in the contact section to get in touch.
 
-The goal of the project is to provide a basic understanding of what the meditation club is and to allow users to check the timetable of what is on. If happy then can then signup for free! The target audience can be anyone as reflected in a wide range of pictures which includes diffrent cultures. Expectations and demands can be quite similar here. A clear and simple website which doesn't need a lot of functions is what was required and delivered. The colours are warm and modern just as is The theme of the meditation club.
+The website is a concept design and is not used for a real life buisness. The aim of this project was to build a aesthetically pleasing website which is responsive on all devices.
 
-![Responsive](/readme-resources/images/Responsive.png)
+[Link to my Website via Github pages](https://pritenmakwana44.github.io/the-meditation-club/)
+
+# Contents
+- [UX](#ux)
+    - [Owner Buisness Goals](#owner-buisness-goals)
+    - [User Goals](#user-goals)
+         - [New Customer Goals](#new-customer-goals)
+         - [Returning Customer Goals](#returning-customer-goals)
+    - [Owner Buisness Story](#owner-buisness-story)
+    - [Customer Stories](#customer-stories)
+       - [New Customer Story](#new-customer-story)
+       - [Returning Customer Story](#returning-customer-story)
+
+    
+
+- [Features](#features)
+
+
+# UX
+<hr>
+
+## Owner Buisness Goals
+The goal of this website is to introduce others to Meditation from all angles. This would be from physically learning diffrent styles of meditation, learning the culture behind meditation and the ancient teachings behind mediation. The website is a place where one can get a summary of what the club entails, but also allows one to check the schedule of what is on every week. If one is interested then they can sign up on the website or get in touch via the social media links.
+
+## Customer Goals
+<hr>
+
+### New Customer Goals
+1. New users should be able to get a summary of what the meditation club is about.
+2. New users should be able to easily check the timetable to see what would interest them most about the meditation club. 
+3. New users should be able to sign up with ease.
+4. New users should be able to access the clubs social media to either contact or find content for context of what the events look like. 
+
+
+### Returning Customer Goals
+1. Returning users may have already gathered what the club is about, so the about section is more of way of reiterating what the club does. 
+2. The main reason most returning users would go back to the website would be for the timetable to see what is on that coming week or to access social media links.
+
+
+## Owner Buisness Story
+<hr>
+
+1. The buisness values must be presented via the website. The real value is a modern take on ancient teachings.
+2. All customers must feel that joining the club is simple and easy. 
+3. The buisness must show that they are able to bring value to others lives in a organised manner.
+
+## Customer Stories
+<hr>
+
+### New Customer Story:
+1. Need to know what the club is about. 
+2. What events are on. 
+3. How to sign up.
+4. How to get in touch.
+
+
+### Returning Customer Story:
+1. Need to be able to check what events are coming up. 
+2. Find social media links to reach out or view contents. Or event to share with others.
+
+
+
+
+
+    
+
+
+
+
 
 
 ## Features
@@ -119,7 +190,7 @@ HTML: No errors or warnings via W3C validator.
 CSS: No errors or warnings via Jigsaw validator.
 
 SEO testing desktop:
-![desktop-seo](../the-meditation-club/readme-resources/images/desktop-seo.png)
+![desktop-seo](/readme-resources/images/desktop-seo.png)
 
 SEO testing mobile:
 ![mobile-seo](/readme-resources/images/mobile-seo.png)
