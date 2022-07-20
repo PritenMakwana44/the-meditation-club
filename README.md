@@ -21,6 +21,10 @@ The website is a concept design and is not used for a real life buisness. The ai
     - [Customer Stories](#customer-stories)
        - [New Customer Story](#new-customer-story)
        - [Returning Customer Story](#returning-customer-story)
+     - [Structure](#structure)
+     - [Surface](#surface)
+
+
 
     
 
@@ -69,7 +73,10 @@ The goal of this website is to introduce others to Meditation from all angles. T
 1. Need to be able to check what events are coming up. 
 2. Find social media links to reach out or view contents. Or event to share with others.
 
+## Customer Stories
+<hr>
 
+The structure of the website was to be clear and simple while still being modern. The website was to maintain this responsiveness from all devices.
 
 
 
