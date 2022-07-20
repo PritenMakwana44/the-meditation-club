@@ -78,6 +78,23 @@ The goal of this website is to introduce others to Meditation from all angles. T
 
 The structure of the website was to be clear and simple while still being modern. The website was to maintain this responsiveness from all devices.
 
+## Surface
+<hr>
+
+## Fonts
+
+* For headings the font'Fjalla One' was used with a backup of sans-serif.
+* For anything else the font 'Roboto' was used with a back of serif.
+
+## Colors
+
+Colors were used in a mixture of ways. But the main colors used with in their structured way were:
+
+* Font color: #281b13;
+* Background color: 
+
+
+
 
 
     
