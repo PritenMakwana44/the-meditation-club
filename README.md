@@ -23,14 +23,18 @@ The website is a concept design and is not used for a real life buisness. The ai
        - [Returning Customer Story](#returning-customer-story)
      - [Structure](#structure)
      - [Surface](#surface)
-     - [Future Implementations](#future-implementations)
-     - [Technology Used](#technology-used)
-
-
-
-    
-
 - [Features](#features)
+- [Future Implementations](#future-implementations)
+- [Technology Used](#technology-used)
+- [Testing](#testing)
+     - [Functionality/Compatibility Testing](#functionality/compatibility-testing)
+     - [Code Validator Testing](code-validator-testing)
+     - [SEO Testing](seo-testing)
+
+- [Bugs](#bugs)
+
+     
+     
 
 
 # UX
@@ -198,7 +202,7 @@ The website contains 3 sections within the index.html (main website). There is o
 ## Testing
 <hr>
 
-### Functionality Testing
+### Functionality/Compatibility Testing
 
 For functionality testing I tested my website in all diffrent sizes in chrome, firefox and safari. 
 
@@ -215,7 +219,23 @@ However in Safari and firefox all looked fine apart from the nav bar font which 
 Result: After speaking with external help (tutors) We came to a conclusion as it's just the way the browsers render. Possible change of font could fix in the future. 
 
 
-### Bugs
+### Code Validator Testing
+
+ [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+ [W3C HTML Validator](https://validator.w3.org/) 
+
+ ### SEO Testing
+
+ Below are screenshots taken from the chrome dev tools lighthouse function to evaluate SEO of the website.
+
+SEO testing desktop:
+![desktop-seo](/readme-resources/images/desktop-seo.png)
+
+SEO testing mobile:
+![mobile-seo](/readme-resources/images/mobile-seo.png)
+
+## Bugs
+<hr>
 
 Hover bug:
 - When hovering over the submit button it is the correct colour, just the button is out of place. 
@@ -247,17 +267,6 @@ margin: 1% auto;
 
 
 
-**Validator Testing**
-
-HTML: No errors or warnings via W3C validator.
-
-CSS: No errors or warnings via Jigsaw validator.
-
-SEO testing desktop:
-![desktop-seo](/readme-resources/images/desktop-seo.png)
-
-SEO testing mobile:
-![mobile-seo](/readme-resources/images/mobile-seo.png)
 
 
 ## Deployment
