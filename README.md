@@ -90,9 +90,13 @@ The structure of the website was to be clear and simple while still being modern
 
 Colors were used in a mixture of ways. But the main colors used with in their structured way were:
 
-* Font color: #281b13;
-* Background color: 
+* Font color: #281b13.
+* Background color: #FAF9F6.
+* Lining and styling: #e5d9c2.
 
+## Images
+
+All images were taken from [www.pexels.com](www.pexels.com)
 
 
 
