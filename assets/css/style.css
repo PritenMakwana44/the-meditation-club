@@ -236,6 +236,7 @@ tr {
     font-size: 25px;
     display: block;
     margin: 0 auto;
+    margin-bottom: 15px;
     width: 300px;
     border-bottom: 3px solid #e5d9c2;
     border-radius: 1px;
