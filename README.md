@@ -212,6 +212,8 @@ However in Safari and firefox all looked fine apart from the nav bar font which 
 
 ![safari-blurry](/readme-resources/images/safari-blurry.png)
 
+Result: After speaking with external help (tutors) We came to a conclusion as it's just the way the browsers render. Possible change of font could fix in the future. 
+
 
 ### Bugs
 
