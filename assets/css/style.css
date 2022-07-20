@@ -445,5 +445,15 @@ footer {
 /* Main text styling*/
 #error-main-text {
 
+    font-size: 50px;
     text-align: center;
 }
+
+#error-main-image {
+height: 500px;
+width: 100%;
+background: url(../images/Rocks.webp) no-repeat center center;
+background-size: contain;
+
+}
+
