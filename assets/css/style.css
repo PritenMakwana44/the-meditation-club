@@ -438,5 +438,12 @@ footer {
         width: 200px;
         font-size: 20px;
     }
+}
 
+/* 404 site*/
+
+/* Main text styling*/
+#error-main-text {
+
+    text-align: center;
 }
