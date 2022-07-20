@@ -16,7 +16,7 @@ The goal of the project is to provide a basic understanding of what the meditati
 - Header holds a heading for the whole page which reads 'The Meditation Club'.
 - Dark coloured and has a specific modern font to make it stand out.
 
-![Header-navbar](../the-meditation-club/readme-resources/images/Header-and-nav-bar.png)
+![Header-navbar](/readme-resources/images/Header-and-nav-bar.png)
 
 **Navigation Bar**
 - Navigation bar is in middle of page.
@@ -25,7 +25,7 @@ The goal of the project is to provide a basic understanding of what the meditati
 - Font contrasts with background which is off-white. It's in a simple but modern text.
 - Fully responsive with diffrent devices. Easily done as it's in the center of page.
 
-![Header-navbar](../the-meditation-club/readme-resources/images/Header-and-nav-bar.png)
+![Header-navbar](/readme-resources/images/Header-and-nav-bar.png)
 
 **Landing Page**
 - Landing page shows a picture of a women meditating which covers most of the page.
@@ -33,7 +33,7 @@ The goal of the project is to provide a basic understanding of what the meditati
 - Opacity set on image to make text stand out and easier to read.
 - Text and image responsive to diffrent devices.
 
-![main-image](../the-meditation-club/readme-resources/images/main-image.png)
+![main-image](/readme-resources/images/main-image.png)
 
 **About Section**
 - The about section covers what the club is about and what is included.
@@ -42,7 +42,7 @@ The goal of the project is to provide a basic understanding of what the meditati
 - This section gives the viewer the essence of the meditation club.
 - Again this section is responsive to tablets and mobiles too.
 
-![about](../the-meditation-club/readme-resources/images/about.png)
+![about](/readme-resources/images/about.png)
 
 **Timetable Section**
 - The timetable section has a diffrent colour which stands out amongst the rest of the site to attract the viewers attention. 
@@ -50,7 +50,7 @@ The goal of the project is to provide a basic understanding of what the meditati
 - The timetable displays all days of the week with their respective events, who they are instructed by and what time. 
 - The table is responsive to all devices. 
 
-![timetable](../the-meditation-club/readme-resources/images/timetable.png)
+![timetable](/readme-resources/images/timetable.png)
 
 
 **Sign Up Section**
@@ -62,7 +62,7 @@ The goal of the project is to provide a basic understanding of what the meditati
 - When the submit button is clicked or hovered over the button turns black.
 - Responsive to mobile and tablet.
 
-![signup](../the-meditation-club/readme-resources/images/signup.png)
+![signup](/readme-resources/images/signup.png)
 
 **Footer**
 - The footer has 4 social media icons. 
@@ -70,7 +70,7 @@ The goal of the project is to provide a basic understanding of what the meditati
 - All icons are stick with the same colour scheme of offwhite background and dark in color.
 - Responsive to mobile and tablet.
 
-![footer](../the-meditation-club/readme-resources/images/footer.png)
+![footer](/readme-resources/images/footer.png)
 
 ## Testing
 <hr>
@@ -87,11 +87,11 @@ Hover bug:
 
 Before hover:
 
-![signup](../the-meditation-club/readme-resources/images/signup.png)
+![signup](/readme-resources/images/signup.png)
 
 After Hover: 
 
-![submit-hover-bug](../the-meditation-club/readme-resources/images/submit-hover-bug.png)
+![submit-hover-bug](/readme-resources/images/submit-hover-bug.png)
 
 **Solved Bugs**
 
@@ -108,7 +108,7 @@ margin: 1% auto;
 
 - I must have missed this when adjusting the submit button code in css. 
 
-![hover-bug-fix](../the-meditation-club/readme-resources/images/hover-bug-fix.png)
+![hover-bug-fix](/readme-resources/images/hover-bug-fix.png)
 
 
 
@@ -122,7 +122,7 @@ SEO testing desktop:
 ![desktop-seo](../the-meditation-club/readme-resources/images/desktop-seo.png)
 
 SEO testing mobile:
-![mobile-seo](../the-meditation-club/readme-resources/images/mobile-seo.png)
+![mobile-seo](/readme-resources/images/mobile-seo.png)
 
 
 ## Deployment
