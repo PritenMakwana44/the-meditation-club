@@ -28,11 +28,11 @@ The website is a concept design and is not used for a real life buisness. The ai
 - [Technology Used](#technology-used)
 - [Testing](#testing)
      - [Functionality/Compatibility Testing](#functionality-compatibility-testing)
-     - [Code Validator Testing](code-validator-testing)
-     - [SEO Testing](seo-testing)
+     - [Code Validator Testing](#code-validator-testing)
+     - [SEO Testing](#seo-testing)
 - [Bugs](#bugs)
 - [Deployment](#deployment)
-- [Credit](credit)
+- [Credit](#credit)
 
      
      
@@ -42,7 +42,7 @@ The website is a concept design and is not used for a real life buisness. The ai
 <hr>
 
 ## Owner Buisness Goals
-The goal of this website is to introduce others to Meditation from all angles. This would be from physically learning diffrent styles of meditation, learning the culture behind meditation and the ancient teachings behind mediation. The website is a place where one can get a summary of what the club entails, but also allows one to check the schedule of what is on every week. If one is interested then they can sign up on the website or get in touch via the social media links.
+The goal of this website is to introduce others to Meditation from all angles. This would be from physically learning diffrent styles of meditation, learning the culture behind meditation and the ancient teachings behind mediation. The website is a place where one can get a summary of what the club entails, but also allows one to check the schedule of what is on every week. If one is interested then they can sign up on the website or get in touch via the social media links. 
 
 ## Customer Goals
 <hr>
