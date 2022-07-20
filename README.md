@@ -14,7 +14,7 @@ The website is a concept design and is not used for a real life buisness. The ai
 # Contents
 - [UX](#ux)
     - [Owner Buisness Goals](#owner-buisness-goals)
-    - [User Goals](#user-goals)
+    - [Customer Goals](#user-goals)
          - [New Customer Goals](#new-customer-goals)
          - [Returning Customer Goals](#returning-customer-goals)
     - [Owner Buisness Story](#owner-buisness-story)
@@ -291,7 +291,7 @@ To run locally:
 
 
 
-## Credits
+## Credit
 **Content**
 * The social media code was taken from the Code Institute Love running project, but was styled slightly diffrently.
 * Sizing inspirtation was taken from the below link
