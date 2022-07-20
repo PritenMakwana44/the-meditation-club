@@ -6,7 +6,7 @@ This website allows one to get a basic understanding of what the meditation club
 
 The goal of the project is to provide a basic understanding of what the meditation club is and to allow users to check the timetable of what is on. If happy then can then signup for free! The target audience can be anyone as reflected in a wide range of pictures which includes diffrent cultures. Expectations and demands can be quite similar here. A clear and simple website which doesn't need a lot of functions is what was required and delivered. The colours are warm and modern just as is The theme of the meditation club.
 
-![Responsive](../the-meditation-club/readme-resources/images/Responsive.png)
+![Responsive](/readme-resources/images/Responsive.pngthe-meditation-club/readme-resources/images/Responsive.png)
 
 
 ## Features
