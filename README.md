@@ -195,16 +195,23 @@ The website contains 3 sections within the index.html (main website). There is o
 
 
 
-
-
-
 ## Testing
 <hr>
 
-- Tested in diffrent browsers i.e chrome, firefox and safari. All working.
+### Functionality Testing
+
+For functionality testing I tested my website in all diffrent sizes in chrome, firefox and safari. 
+
+In chrome the site looked just fine on all devices.
+
 - Used dev tools to check everything works with diffrent screen sizes. all seemed to be fine. 
 - All areas have great contrast and seem to be easy to see.
 - Form works fine and submit button works. Did find a bug with the hover function of the button being out of place. Fixed below in bugs section.
+
+However in Safari and firefox all looked fine apart from the nav bar font which looked slightly thinner then usual. This was the same accross all device sizes.
+
+![safari-blurry](/readme-resources/images/safari-blurry.png)
+
 
 ### Bugs
 

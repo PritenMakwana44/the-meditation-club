@@ -9,6 +9,7 @@ body {
     padding: 0px;
     border: 0px;
     background-color: #FAF9F6;
+    -webkit-font-smoothing: antialiased;
 }
 
 body {
