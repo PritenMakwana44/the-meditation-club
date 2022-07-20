@@ -98,18 +98,10 @@ Colors were used in a mixture of ways. But the main colors used with in their st
 
 All images were taken from [www.pexels.com](www.pexels.com)
 
-
-
-
-    
-
-
-
-
-
-
 ## Features
 <hr>
+
+The website contains 3 sections within the index.html (main website). There is only 1 other html file called 404.html which is used for mistyped urls. All styling is maintained in a single CSS file. 
 
 **Header**
 - Header holds a heading for the whole page which reads 'The Meditation Club'.
@@ -170,6 +162,14 @@ All images were taken from [www.pexels.com](www.pexels.com)
 - Responsive to mobile and tablet.
 
 ![footer](/readme-resources/images/footer.png)
+
+**404 Error page**
+- The 404 error page is a single HTML file which includes the logo which is the same as the logo on the main website. 
+- It includes a sub-heading which goes with the theme of the site. 
+- Then an image of 4 rocks stacked ontop of eachother which is a common meditation image.
+
+![404](/readme-resources/images/error-page.png)
+
 
 ## Testing
 <hr>
