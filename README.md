@@ -80,7 +80,7 @@ The goal of this website is to introduce others to Meditation from all angles. T
 1. Need to be able to check what events are coming up. 
 2. Find social media links to reach out or view contents. Or event to share with others.
 
-## Customer Stories
+## Structure
 <hr>
 
 The structure of the website was to be clear and simple while still being modern. The website was to maintain this responsiveness from all devices.
