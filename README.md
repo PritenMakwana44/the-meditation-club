@@ -32,6 +32,7 @@ The website is a concept design and is not used for a real life buisness. The ai
      - [SEO Testing](seo-testing)
 
 - [Bugs](#bugs)
+-[Deployment](#deployment)
 
      
      
@@ -267,15 +268,28 @@ margin: 1% auto;
 
 
 
-
-
 ## Deployment
 
-Hosting on github pages:
-You can do it easily in Gitub:
-1. Open the repository on GitHub
-2. Go to "Settings" (the tab on the right)
-3. On the left hand side select pages, select the main branch as the source.  Then it shows you a green confirmation "Your site is published at......" with the URL.
+To deploy Github the steps I took are below:
+
+1. Log into your Github account.
+2. Go to your repositories
+3. Click on your project (e.g the-meditation-club)
+4. Click settings which should be in the middle of the page.
+5. on the left side under 'Code and automation', you should find a tab called pages. Click this tab.
+6. Branch should say main and folder should say root. Click save. 
+7. It then should say 'Your site is being published at "Here would be your url for site"
+
+Published url: [https://pritenmakwana44.github.io/the-meditation-club/](https://pritenmakwana44.github.io/the-meditation-club/)
+
+To run locally:
+1. Log into your Github account.
+2. Go to your repositories
+3. Click on your project (e.g the-meditation-club)
+4. Click 'code' then 'Download ZIP' Or if you use Gitpod you should see a Gitpod button next to code to deploy.
+5. Once you download the zip you should then be able to run the project locally.
+
+
 
 ## Credits
 **Content**
