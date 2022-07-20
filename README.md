@@ -23,6 +23,8 @@ The website is a concept design and is not used for a real life buisness. The ai
        - [Returning Customer Story](#returning-customer-story)
      - [Structure](#structure)
      - [Surface](#surface)
+     - [Future Implementations](#future-implementations)
+     - [Technology Used](#technology-used)
 
 
 
@@ -169,6 +171,31 @@ The website contains 3 sections within the index.html (main website). There is o
 - Then an image of 4 rocks stacked ontop of eachother which is a common meditation image.
 
 ![404](/readme-resources/images/error-page.png)
+
+## Future Implementations
+<hr>
+
+- Built in class schedule system which lets customers confirm attendance.
+- Multiple pages - Go into more detail of the 4 pillars of the meditation club in a detailed about page. 
+- Pictures and videos from events.
+
+
+## Technology Used
+<hr>
+
+1. HTML5 - Markup language for structure.
+2. CSS3 - Styling language.
+3. Font Awesome - Icons
+4. Google Fonts - Fonts
+5. Github - Hosted platform for website.
+6. Git - Version control system.
+7. Gitpod - IDE
+9. Google - Research platform.
+
+
+
+
+
 
 
 ## Testing
