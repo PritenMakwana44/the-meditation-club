@@ -30,9 +30,9 @@ The website is a concept design and is not used for a real life buisness. The ai
      - [Functionality/Compatibility Testing](#functionality/compatibility-testing)
      - [Code Validator Testing](code-validator-testing)
      - [SEO Testing](seo-testing)
-
 - [Bugs](#bugs)
--[Deployment](#deployment)
+- [Deployment](#deployment)
+- [Credit](credit)
 
      
      
@@ -295,12 +295,16 @@ To run locally:
 **Content**
 * The social media code was taken from the Code Institute Love running project, but was styled slightly diffrently.
 * Sizing inspirtation was taken from the below link
-https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488
+[https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
 * Styling code inspirtation was taken from:
-https://www.w3schools.com/howto/default.asp
+[https://www.w3schools.com/howto/default.asp](https://www.w3schools.com/howto/default.asp)
 * Much help was also taken from Stackoverflow when problems occured.
-https://stackoverflow.com/
-
+[https://stackoverflow.com/](https://stackoverflow.com/)
+* For this readme I used the following as a template to create this readme.
+[https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md#compatibility-testing](https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md#compatibility-testing)
+* Github template was used for this project. 
+[https://github.com/Code-Institute-Org/gitpod-full-template](https://github.com/Code-Institute-Org/gitpod-full-template)
+* All research was done using Google. [www.google.com](www.google.com)
 
 **Media**
 * All images were taken from Pexels
