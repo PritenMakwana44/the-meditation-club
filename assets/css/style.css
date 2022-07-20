@@ -290,7 +290,7 @@ footer {
     display: inline;
 }
 
-/* media section for mobile. upt0 767px*/
+/* media section for mobile. upto 767px*/
 
 @media (max-width: 767px) {
 
@@ -457,3 +457,36 @@ background-size: contain;
 
 }
 
+
+/* 404 Error page - media section for mobile. upto 767px*/
+
+@media (max-width: 767px) {
+    #error-main-text {
+
+        font-size: 35px;
+        
+    }
+
+    #error-main-image {
+        height: 200px;
+
+}
+
+/* 404 Error page - min width 767 and max 1065px - for tablet view. Same as mobile in most of code. changes can be added here for tablet*/
+
+@media (min-width: 767px)and (max-width: 1065px) {
+
+    #error-main-text {
+
+        font-size: 35px;
+        
+    }
+
+    #error-main-image {
+        height: 200px;
+
+}
+
+}
+
+}
