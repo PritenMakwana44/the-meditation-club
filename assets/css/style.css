@@ -32,12 +32,19 @@ p {
     font-family: 'Roboto', serif;
 }
 
+a {
+    text-decoration: none;
+}
+
 #logo {
     color: #281b13;
     font-size: 400%;
     margin: 0 auto;
     text-align: center;
+    
 }
+
+
 
 /* Navigation Menu */
 #nav-menu {
