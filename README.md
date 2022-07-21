@@ -113,6 +113,7 @@ The website contains 3 sections within the index.html (main website). There is o
 **Header**
 - Header holds a heading for the whole page which reads 'The Meditation Club'.
 - Dark coloured and has a specific modern font to make it stand out.
+- The logo is linked to the home page which is the index.html page.
 
 ![Header-navbar](/readme-resources/images/Header-and-nav-bar.png)
 
@@ -122,6 +123,7 @@ The website contains 3 sections within the index.html (main website). There is o
 - Links to about section, timetable section and signup section. 
 - Font contrasts with background which is off-white. It's in a simple but modern text.
 - Fully responsive with diffrent devices. Easily done as it's in the center of page.
+- The Nav bar is also on the 404 error page.
 
 ![Header-navbar](/readme-resources/images/Header-and-nav-bar.png)
 
@@ -171,8 +173,8 @@ The website contains 3 sections within the index.html (main website). There is o
 ![footer](/readme-resources/images/footer.png)
 
 **404 Error page**
-- The 404 error page is a single HTML file which includes the logo which is the same as the logo on the main website. 
-- It includes a sub-heading which goes with the theme of the site. 
+- The 404 error page is a single HTML file which includes the logo which is the same as the logo on the main website which links to the main site when clicked.
+- It includes a functional nav bar which goes with the theme of the site. 
 - Then an image of 4 rocks stacked ontop of eachother which is a common meditation image.
 
 ![404](/readme-resources/images/error-page.png)
